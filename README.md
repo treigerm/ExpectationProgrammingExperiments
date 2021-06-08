@@ -35,7 +35,7 @@ This saves the experimental results to
 the plots from the paper for this example. For us getting 1,000 samples took 
 around 10 seconds.
 
-## Run Banana Example
+## Run Banana Example
 
 In the Julia REPL run 
 ```bash
