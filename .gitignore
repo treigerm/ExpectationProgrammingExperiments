@@ -1,0 +1,9 @@
+# Images 
+*.png
+*.pdf
+
+# MacOS 
+.DS_Store
+
+# Saved data
+*.log

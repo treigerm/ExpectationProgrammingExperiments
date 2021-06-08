@@ -1,0 +1,6 @@
+[submodule "dev/EPT.jl"]
+	path = dev/EPT.jl
+	url = https://github.com/treigerm/EPT.jl
+[submodule "dev/AnnealedIS.jl"]
+	path = dev/AnnealedIS.jl
+	url = https://github.com/treigerm/AnnealedIS.jl
