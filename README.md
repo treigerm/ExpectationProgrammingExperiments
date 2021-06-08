@@ -1,16 +1,5 @@
 # Expectation Programming Experiments
 
-Code structure:
-- `dev/AnnealedIS.jl` contains our implementation of Annealed Importance Sampling
-- `dev/EPT.jl` contains the implementation of the EPT framework
-   including the macro transformation and the implementation for the 
-   `estimate_expectation` function
-- `src` contains helper files for the experiments
-- `scripts` contains the experiment scripts
-- `data` is the folder in which experimental results are stored
-   - `data/exp_raw` contains the radon dataset
-   - `data/sim` contains the data for the SIR experiment
-
 ## Installation instructions
 
 To run this code download [Julia 1.3](https://julialang.org/downloads/oldreleases/#v131_dec_30_2019) 
