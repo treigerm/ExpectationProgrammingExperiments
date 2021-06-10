@@ -1,5 +1,7 @@
 # Expectation Programming Experiments
 
+This repository contains the experiments for the paper [Expectation Programming](https://arxiv.org/abs/2106.04953).
+
 ## Installation instructions
 
 To run this code download [Julia 1.3](https://julialang.org/downloads/oldreleases/#v131_dec_30_2019) 
